@@ -1,0 +1,571 @@
+    /* Corrected: Full 17 themes with exact RGB from original, including both orange variations */
+[data-theme="theme--0"] {
+    --fg-rgb: 255 255 255;
+    --bg-rgb: 0 0 0;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--1"] {
+    --fg-rgb: 195 235 241;
+    --bg-rgb: 5 26 28;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--2"] {
+    --fg-rgb: 183 212 245;
+    --bg-rgb: 24 41 56;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--3"] {
+    --fg-rgb: 207 188 236;
+    --bg-rgb: 46 50 72;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--4"] {
+    --fg-rgb: 248 166 211;
+    --bg-rgb: 64 54 79;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--5"] {
+    --fg-rgb: 255 177 177;
+    --bg-rgb: 84 60 89;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--6"] {
+    --fg-rgb: 242 195 164;
+    --bg-rgb: 119 58 53;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--7"] {
+    --fg-rgb: 243 216 184;
+    --bg-rgb: 157 68 51;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--8"] {
+    --fg-rgb: 243 230 207;
+    --bg-rgb: 233 79 14;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--9"] {
+    --fg-rgb: 233 79 14;
+    --bg-rgb: 255 210 180;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--10"] {
+    --fg-rgb: 119 78 52;
+    --bg-rgb: 243 230 207;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--11"] {
+    --fg-rgb: 81 78 56;
+    --bg-rgb: 213 209 183;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--12"] {
+    --fg-rgb: 59 66 54;
+    --bg-rgb: 209 218 203;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--13"] {
+    --fg-rgb: 38 54 49;
+    --bg-rgb: 213 227 222;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--14"] {
+    --fg-rgb: 30 40 42;
+    --bg-rgb: 222 235 238;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--15"] {
+    --fg-rgb: 18 25 26;
+    --bg-rgb: 242 251 253;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+[data-theme="theme--16"] {
+    --fg-rgb: 0 0 0;
+    --bg-rgb: 255 255 255;
+    --body-bg: rgb(var(--bg-rgb) / 1);
+    --card-bg: rgb(var(--bg-rgb) / 1);
+    --text-heading: rgb(var(--fg-rgb) / 1);
+    --text-body: rgb(var(--fg-rgb) / 1);
+    --text-muted: rgb(var(--fg-rgb) / 0.6);
+    --button-bg: rgb(var(--fg-rgb) / 1);
+    --button-hover: rgb(var(--fg-rgb) / 0.8);
+    --border-color: rgb(var(--fg-rgb) / 0.2);
+    --shadow-color: rgba(var(--fg-rgb), 0.1);
+    --spinner-border: rgb(var(--fg-rgb) / 1);
+    --spinner-border-t: transparent;
+}
+
+* {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+button:hover {
+    background-color: var(--button-hover) !important;
+}
+
+/* Slider styling inspired by original */
+#theme-slider {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 150px;
+    height: 4px;
+    background: var(--border-color);
+    outline: none;
+    opacity: 0.7;
+    transition: opacity .2s;
+}
+
+#theme-slider:hover {
+    opacity: 1;
+}
+
+#theme-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 12px;
+    height: 12px;
+    background: var(--button-bg);
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+#theme-slider::-moz-range-thumb {
+    width: 12px;
+    height: 12px;
+    background: var(--button-bg);
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+/* For button text: since button bg is fg, text should be bg for contrast */
+button {
+    color: rgb(var(--bg-rgb) / 1) !important;
+}
+
+/* Expandable slider like Sweeney: compact to expanded on visible class */
+/* Thinner: reduced sizes, added transparency */
+.app-aside {
+    position: fixed;
+    bottom: 20px;
+    left: 20px; /* Moved to left side */
+    z-index: 1000;
+    transition: all 0.3s ease;
+}
+
+.app-aside .options {
+    display: flex;
+    gap: 10px;
+}
+
+.app-aside .option.theme {
+    position: relative;
+    width: 32px; /* Thinner compact width */
+    height: 32px;
+    transition: height 0.3s ease 0.62s;
+    background: var(--card-bg);
+    border-radius: 16px; /* Smaller radius */
+    overflow: hidden;
+    cursor: pointer;
+    opacity: 0.7; /* Added transparency like Sweeney's subtle elements */
+    transition: opacity 0.3s ease;
+}
+
+.app-aside .option.theme:hover {
+    opacity: 1; /* Full visibility on hover */
+}
+
+.app-aside .option.theme .icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    bottom: 0;
+    transition: bottom 0.7s ease; /* Slower descent for sun (0.7s, changed timing to ease for smoother feel) */
+    opacity: 1; /* Ensure icon visible */
+    will-change: bottom; /* Performance optimization for smoother animation */
+}
+
+.app-aside .option.theme .icon-container svg {
+    fill: var(--text-heading);
+    width: 24px; /* Smaller icon for thinner look */
+    height: 24px;
+}
+
+.app-aside .option.theme .slider-container {
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+    transform: rotate(-90deg);
+    transform-origin: top left;
+    position: absolute;
+    bottom: -32px;
+    pointer-events: none;
+    transition: width 0.3s ease 0.62s;
+}
+
+.app-aside .option.theme .dots {
+    position: absolute;
+    width: 100%;
+    padding: 14px; /* Reduced padding for thinner */
+    display: flex;
+    justify-content: space-between;
+}
+
+.app-aside .option.theme .dot {
+    width: 3px; /* Thinner dots */
+    height: 3px;
+    border-radius: 1.5px;
+    transform: translateX(-12px); /* Adjusted for smaller */
+    opacity: 0;
+    transition: transform 0.7s ease, opacity 0.7s ease; /* Slower on collapse (0.7s, ease for smoother) */
+    will-change: transform, opacity; /* Performance optimization */
+}
+
+body.theme-slider--is--visible .app-aside .option.theme .dot {
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Shorter on expand */
+}
+
+.app-aside .option.theme .slider {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 4px; /* Thinner track */
+    outline: none;
+    position: absolute;
+    left: 6px;
+    width: calc(100% - 12px);
+    top: 14px;
+    background-color: transparent; /* Hide track always */
+    cursor: pointer;
+}
+
+.app-aside .option.theme .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    box-shadow: none;
+    background: transparent; /* Hide thumb always */
+    width: 12px; /* Thinner thumb */
+    height: 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    opacity: 0; /* Hide opacity */
+}
+
+.app-aside .option.theme .slider::-moz-range-thumb {
+    background: transparent; /* Hide thumb always */
+    box-shadow: none;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+/* Visible state: expand on hover (JS adds class) */
+body.theme-slider--is--visible .app-aside .option.theme {
+    height: 200px;
+    transition: height 0.3s ease;
+    background: transparent; /* Hide the bar background for only icon and dots visible */
+}
+
+body.theme-slider--is--visible .app-aside .option.theme .icon-container {
+    transition: bottom 0.3s ease;
+    transition-delay: 0s !important;
+}
+
+body.theme-slider--is--visible .app-aside .option.theme .slider-container {
+    width: 200px;
+    transition: width 0.3s ease;
+    pointer-events: auto;
+}
+
+body.theme-slider--is--visible .app-aside .option.theme .dot {
+    transform: none;
+    opacity: 0.8; /* Transparent dots in expanded */
+}
+
+/* Collapsing state: trigger descent before collapse */
+body.theme-slider--collapsing .app-aside .option.theme .icon-container {
+    bottom: 0 !important; /* Force sun to bottom */
+}
+
+body.theme-slider--collapsing .app-aside .option.theme .dot {
+    opacity: 0;
+    transform: translateX(-12px);
+}
+
+/* Adapted bottom positions for icon (aligned to dot centers) */
+body.theme-slider--is--visible.theme--16 .app-aside .option.theme .icon-container { bottom: 169px; }
+body.theme-slider--is--visible.theme--15 .app-aside .option.theme .icon-container { bottom: 157px; }
+body.theme-slider--is--visible.theme--14 .app-aside .option.theme .icon-container { bottom: 147px; }
+body.theme-slider--is--visible.theme--13 .app-aside .option.theme .icon-container { bottom: 136px; }
+body.theme-slider--is--visible.theme--12 .app-aside .option.theme .icon-container { bottom: 127px; }
+body.theme-slider--is--visible.theme--11 .app-aside .option.theme .icon-container { bottom: 116px; }
+body.theme-slider--is--visible.theme--10 .app-aside .option.theme .icon-container { bottom: 105px; }
+body.theme-slider--is--visible.theme--9 .app-aside .option.theme .icon-container { bottom: 95px; }
+body.theme-slider--is--visible.theme--8 .app-aside .option.theme .icon-container { bottom: 84px; }
+body.theme-slider--is--visible.theme--7 .app-aside .option.theme .icon-container { bottom: 74px; }
+body.theme-slider--is--visible.theme--6 .app-aside .option.theme .icon-container { bottom: 63px; }
+body.theme-slider--is--visible.theme--5 .app-aside .option.theme .icon-container { bottom: 52px; }
+body.theme-slider--is--visible.theme--4 .app-aside .option.theme .icon-container { bottom: 41px; }
+body.theme-slider--is--visible.theme--3 .app-aside .option.theme .icon-container { bottom: 31px; }
+body.theme-slider--is--visible.theme--2 .app-aside .option.theme .icon-container { bottom: 21px; }
+body.theme-slider--is--visible.theme--1 .app-aside .option.theme .icon-container { bottom: 10px; }
+body.theme-slider--is--visible.theme--0 .app-aside .option.theme .icon-container { bottom: 0; }
+
+/* Delays for icon (adapted) */
+body.theme--16 .app-aside .option.theme .icon-container { transition-delay: 0.00s; }
+body.theme--15 .app-aside .option.theme .icon-container { transition-delay: 0.02s; }
+body.theme--14 .app-aside .option.theme .icon-container { transition-delay: 0.04s; }
+body.theme--13 .app-aside .option.theme .icon-container { transition-delay: 0.06s; }
+body.theme--12 .app-aside .option.theme .icon-container { transition-delay: 0.08s; }
+body.theme--11 .app-aside .option.theme .icon-container { transition-delay: 0.10s; }
+body.theme--10 .app-aside .option.theme .icon-container { transition-delay: 0.12s; }
+body.theme--9 .app-aside .option.theme .icon-container { transition-delay: 0.14s; }
+body.theme--8 .app-aside .option.theme .icon-container { transition-delay: 0.16s; }
+body.theme--7 .app-aside .option.theme .icon-container { transition-delay: 0.18s; }
+body.theme--6 .app-aside .option.theme .icon-container { transition-delay: 0.20s; }
+body.theme--5 .app-aside .option.theme .icon-container { transition-delay: 0.22s; }
+body.theme--4 .app-aside .option.theme .icon-container { transition-delay: 0.24s; }
+body.theme--3 .app-aside .option.theme .icon-container { transition-delay: 0.26s; }
+body.theme--2 .app-aside .option.theme .icon-container { transition-delay: 0.28s; }
+body.theme--1 .app-aside .option.theme .icon-container { transition-delay: 0.30s; }
+body.theme--0 .app-aside .option.theme .icon-container { transition-delay: 0.32s; }
+
+/* Dot backgrounds and delays (adapted from original) */
+.app-aside .option.theme .dot:nth-child(17) { background-color: var(--text-heading); transition-delay: 0.00s; }
+.app-aside .option.theme .dot:nth-child(16) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.02s; }
+.app-aside .option.theme .dot:nth-child(15) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.04s; }
+.app-aside .option.theme .dot:nth-child(14) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.06s; }
+.app-aside .option.theme .dot:nth-child(13) { background-color: var(--text-heading); transition-delay: 0.08s; }
+.app-aside .option.theme .dot:nth-child(12) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.10s; }
+.app-aside .option.theme .dot:nth-child(11) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.12s; }
+.app-aside .option.theme .dot:nth-child(10) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.14s; }
+.app-aside .option.theme .dot:nth-child(9) { background-color: var(--text-heading); transition-delay: 0.16s; }
+.app-aside .option.theme .dot:nth-child(8) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.18s; }
+.app-aside .option.theme .dot:nth-child(7) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.20s; }
+.app-aside .option.theme .dot:nth-child(6) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.22s; }
+.app-aside .option.theme .dot:nth-child(5) { background-color: var(--text-heading); transition-delay: 0.24s; }
+.app-aside .option.theme .dot:nth-child(4) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.26s; }
+.app-aside .option.theme .dot:nth-child(3) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.28s; }
+.app-aside .option.theme .dot:nth-child(2) { background-color: rgb(var(--fg-rgb) / 0.25); transition-delay: 0.30s; }
+.app-aside .option.theme .dot:nth-child(1) { background-color: var(--text-heading); transition-delay: 0.32s; }
+
+/* Reverse delays for visible state */
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(17) { transition-delay: 0.32s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(16) { transition-delay: 0.30s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(15) { transition-delay: 0.28s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(14) { transition-delay: 0.26s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(13) { transition-delay: 0.24s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(12) { transition-delay: 0.22s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(11) { transition-delay: 0.20s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(10) { transition-delay: 0.18s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(9) { transition-delay: 0.16s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(8) { transition-delay: 0.14s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(7) { transition-delay: 0.12s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(6) { transition-delay: 0.10s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(5) { transition-delay: 0.08s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(4) { transition-delay: 0.06s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(3) { transition-delay: 0.04s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(2) { transition-delay: 0.02s; }
+body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(1) { transition-delay: 0.00s; }
+
+/* Responsive: on mobile, smaller expand */
+@media (max-width: 768px) {
+    body.theme-slider--is--visible .app-aside .option.theme {
+        height: 150px;
+    }
+    body.theme-slider--is--visible .app-aside .option.theme .slider-container {
+        width: 150px;
+    }
+    /* Adjust bottom positions for mobile */
+    body.theme-slider--is--visible.theme--16 .app-aside .option.theme .icon-container { bottom: 102px; }
+    /* ... (shorten other bottoms proportionally) */
+}
+
+/* Button text contrast */
+button {
+    color: rgb(var(--bg-rgb) / 1) !important;
+}
+
+/* Transitions */
+* {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease, fill 0.3s ease;
+}
